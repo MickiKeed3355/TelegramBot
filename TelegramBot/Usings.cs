@@ -1,0 +1,14 @@
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Telegram.Bot;
+global using Telegram.Bot.Types;
+global using TelegramBot.Extensions;
+global using TelegramBot.HelperModel;
+global using TelegramBot.IService;
+global using TelegramBot.IService.Model;
+global using TelegramBot.Service;
+global using TelegramBot.Service.Interface;
+global using TelegramBot.Service.Model;
+global using TelegramBot.Services;
+global using TelegramBotDb;
